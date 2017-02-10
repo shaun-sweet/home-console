@@ -25,4 +25,5 @@
   <icon src="icon-40@2x.png" platform="ios" width="80" height="80" />
   <icon src="icon-40@3x.png" platform="ios" width="120" height="120" />
   <splash src="Default-Portrait-736h@3x.png" platform="ios" width="1242" height="2208" />
+  <preference name="DisallowOverscroll" value="true" />
 </widget>
