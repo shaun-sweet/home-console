@@ -33,9 +33,9 @@ body, .mission-control-header, .status-display {
 .garage-button {
   width: 300px;
   height: 300px;
-  background-image: url("../clicker.png");
+  background-image: url("./clicker.png");
   background-position: center top;
   background-repeat: no-repeat; }
   .garage-button:hover, .garage-button:active {
-    background-image: url("../clicked.png");
+    background-image: url("./clicked.png");
     cursor: pointer; }
